@@ -1,0 +1,25 @@
+Create & Destroy:
+
+1. Create a file called x
+
+command # touch x
+
+2. Create a directory called content
+
+command # mkdir content
+
+3. Move x file to the content directory
+
+command # mv x content/
+
+4. Create a file insidethe content directory called y
+
+command # touch content/y
+
+5. Create the following directory structure in content directory: dir1/dir2/dir3
+
+command # mkdir -p content/dir1/dir2/dir3
+
+6. Remove the content directory
+
+command # rm -rf content
