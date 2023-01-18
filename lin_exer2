@@ -1,0 +1,33 @@
+Requirement: Linux
+
+Objectives:
+
+1. Change directory to /tmp
+
+command # cd /tmp
+
+2. Move to parent directory
+
+command # cd ..
+
+3. Change directory to home directory
+
+command # cd ~
+
+4. Move to parent directory
+
+command # cd ..
+
+5. Move again to parent directory
+
+command # cd ..
+
+i) Where are you at? Verify with a command
+
+command # pwd
+
+6. Change to last visited directory
+
+command # cd -	
+
+
